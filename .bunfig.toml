@@ -1,0 +1,6 @@
+entry = "./src/index.ts"
+outdir = "./dist"
+minify = true
+target = "es2020"
+sourcemaps = true
+

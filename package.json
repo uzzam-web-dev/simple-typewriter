@@ -1,0 +1,18 @@
+{
+	"version": "0.0.1",
+	"name": "simple-typewriter",
+	"module": "index.ts",
+	"type": "module",
+	"main": "dist/index.js",  
+	"types": "dist/types/index.d.ts",
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0",
+		"@types/react": "^18.3.12",
+		"next": "^15.0.3",
+		"react": "^18.3.1"
+	},
+	"dependencies": {}
+}
